@@ -20,6 +20,15 @@ namespace HW2
 			return a < b && a < c ? a : b < c ? b : c;
 
 		}
+
+		static int NUMOFDIGIT (int a)
+		{
+			int count = 0;
+			while(a!=0)
+			{ a /= 10;count++; };
+			return count;
+		}
+
 		static void Main(string[] args)
 		{
 
@@ -28,6 +37,13 @@ namespace HW2
 
 
 
+
+			#endregion
+
+
+			#region task 2
+			
+			Console.WriteLine($"Количество цифр:{NUMOFDIGIT(1500000)}");
 
 			#endregion
 			Console.ReadLine();

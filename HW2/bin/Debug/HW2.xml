@@ -4,5 +4,14 @@
         <name>HW2</name>
     </assembly>
     <members>
+        <member name="M:HW2.Program.MINOF3(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Возврат минимального из трех
+            </summary>
+            <param name="a">аргумент 1</param>
+            <param name="b">аргумент 2</param>
+            <param name="c">аргумент 3</param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
