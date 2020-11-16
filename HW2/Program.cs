@@ -29,6 +29,47 @@ namespace HW2
 			return count;
 		}
 
+		/// <summary>
+		/// Проверка логина и пароля. У вас 3 попытки
+		/// </summary>
+		/// <returns></returns>
+		static bool LogPass()
+		{
+			bool status = false;
+			int count = 3;
+			string log, pass, amount;
+	
+
+			do
+			{
+				switch (count)
+				{
+					case 3: amount = "три попытки"; break;
+					case 2: amount = "две попытки"; break;
+					case 1: amount = "одна попытка"; break;
+
+
+					default:
+						amount = "Одна попытка";
+						break;
+				}
+
+				Console.WriteLine($"Введите логин и пароль. У вас {amount} ");
+				Console.WriteLine("Введите логин");
+				log = Console.ReadLine();
+				Console.WriteLine("Введите пароль");
+				pass = Console.ReadLine();
+
+				if (log == "root" && pass == "geekbrains") status = true;
+
+
+				count--;
+
+			}
+			while (count != 0);
+			return status;
+		}
+
 		static void Main(string[] args)
 		{
 
@@ -46,6 +87,15 @@ namespace HW2
 			Console.WriteLine($"Количество цифр:{NUMOFDIGIT(1500000)}");
 
 			#endregion
+
+			#region task3
+
+			Console.WriteLine(LogPass());
+
+
+			#endregion
+
+
 			Console.ReadLine();
 		}
 	}
