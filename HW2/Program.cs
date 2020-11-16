@@ -21,6 +21,30 @@ namespace HW2
 
 		}
 
+		static void NotZero()
+		{
+			int neg = 0;
+			int odd = 0;
+			int a=1;
+			Console.WriteLine("Вводите числа");
+			do
+			{
+				Console.Write("  ");
+				a = Convert.ToInt32(Console.ReadLine());
+				
+				if (a % 2 != 0) odd++;
+				if (a < 0) neg++;
+
+			}
+			while (a != 0);
+
+
+			Console.WriteLine($"Количество отрицательных чисел:{neg}, Количество нечетных чисел: {odd}"); 
+
+
+
+		}
+
 		static int NUMOFDIGIT (int a)
 		{
 			int count = 0;
@@ -88,12 +112,22 @@ namespace HW2
 
 			#endregion
 
-			#region task3
+			#region task 3
 
-			Console.WriteLine(LogPass());
+			//NotZero();
+
+			#endregion
+
+
+
+			#region task4
+
+			//Console.WriteLine(LogPass());
 
 
 			#endregion
+
+
 
 
 			Console.ReadLine();

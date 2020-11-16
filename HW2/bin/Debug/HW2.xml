@@ -13,5 +13,11 @@
             <param name="c">аргумент 3</param>
             <returns></returns>
         </member>
+        <member name="M:HW2.Program.LogPass">
+            <summary>
+            Проверка логина и пароля. У вас 3 попытки
+            </summary>
+            <returns></returns>
+        </member>
     </members>
 </doc>
