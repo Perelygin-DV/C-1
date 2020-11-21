@@ -98,7 +98,7 @@ namespace HW2
 		{
 
 			#region task1
-			Console.WriteLine(MINOF3(1, 3, 5));
+			//Console.WriteLine(MINOF3(1, 3, 5));
 
 
 
@@ -108,7 +108,7 @@ namespace HW2
 
 			#region task 2
 			
-			Console.WriteLine($"Количество цифр:{NUMOFDIGIT(1500000)}");
+			//Console.WriteLine($"Количество цифр:{NUMOFDIGIT(1500000)}");
 
 			#endregion
 
@@ -127,10 +127,42 @@ namespace HW2
 
 			#endregion
 
+			GoodNum(100);
 
 
+			int a = 1;
+			int b = 3;
 
 			Console.ReadLine();
+		}
+
+
+
+		static void GoodNum(int v)
+		{
+			int count = 0;
+			int a = 1;
+			int temp = 0;
+			int c;
+			while (a < v)
+			{
+				c = a;
+				while (a != 0)
+				{
+					temp += a % 10;
+					a /= 10;
+
+				}
+				if (c % temp == 0) count++;
+				c++;
+				a = c;
+				temp = 0;
+
+
+
+			}
+			Console.WriteLine($"Число хороших чисел в диапазоне от 0 до {v} = {count}");
+
 		}
 	}
 }
