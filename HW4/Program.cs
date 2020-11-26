@@ -11,24 +11,35 @@ namespace HW4
 		static void Main(string[] args)
 		{
 			#region Task1
-            Finder fn = new Finder();
-			fn.View();
-			fn.Number();
-			Console.ReadKey();
+			//         Finder fn = new Finder();
+			//fn.View();
+			//fn.Number();
+			//Console.ReadKey();
 
 			#endregion
 
 			#region Task2
 
-			Massiv m = new Massiv(10, 2);
-			m.Files("new file");
-			m.Show();
-			Console.ReadKey();
+			//Massiv m = new Massiv(10, 2);
+			//m.Files("new file");
+			//m.Show();
+			//Console.ReadKey();
 
 
 			#endregion
 
+			#region Task3
+			DualMat m = new DualMat(10,2);
+			m.Write("task4");
 
+			m.Read("task4");
+			
+
+			m.Show();
+
+			Console.ReadKey();
+
+			#endregion
 		}
 	}
 }
