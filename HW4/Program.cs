@@ -10,10 +10,25 @@ namespace HW4
 	{
 		static void Main(string[] args)
 		{
-			Finder fn = new Finder();
+			#region Task1
+            Finder fn = new Finder();
 			fn.View();
 			fn.Number();
 			Console.ReadKey();
+
+			#endregion
+
+			#region Task2
+
+			Massiv m = new Massiv(10, 2);
+			m.Files("new file");
+			m.Show();
+			Console.ReadKey();
+
+
+			#endregion
+
+
 		}
 	}
 }
