@@ -29,17 +29,33 @@ namespace HW4
 			#endregion
 
 			#region Task3
-			DualMat m = new DualMat(10,2);
-			m.Write("task4");
+			//DualMat m = new DualMat(10,2);
+			//m.Write("task4");
 
-			m.Read("task4");
-			
+			//m.Read("task4");
 
-			m.Show();
 
-			Console.ReadKey();
+			//m.Show();
+
+			//Console.ReadKey();
 
 			#endregion
+
+			#region Task5
+			//Udvoitel m = new Udvoitel();
+
+			#endregion
+
+			#region Task6
+
+			int t = 0;
+			Trust trust = new Trust("quastions.txt");
+			trust.Quest(ref t);
+			Console.WriteLine(t);
+			Console.ReadLine();
+
+			#endregion
+
 		}
 	}
 }
