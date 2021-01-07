@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<main>
+  <task>
+    <question>1. Ворона и сорока — одно и то же. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>2. Рубанок — инструмент столяра. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>3. Кашпо — вид шарфа. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>4. Бобслей — санный вид спорта. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>5. 23:00 — то же, что 8 часов вечера. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>6. Мэри Поппинс родом из Франции. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>7. Английский алфавит длиннее русского. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>8. В слове «день» 4 звука. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>9. Судно с двумя корпусами — катамаран. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>10. Октябрь — самый длинный осенний месяц. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>11. Столица Египта — Каир. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>12. Фортепиано относится к духовым инструментам. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>13. Война с Наполеоном была в 1812 году. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>14. Изумруд — камень синего цвета. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>15. Суши — японское блюдо. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>16. Рождество в России отмечают 14 января. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>17. Цветик-семицветик исполнял желания. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>18. Антрекот — это пирожное. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>19. Емеля поймал Золотую рыбку. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>20. Если сегодня четверг, то позавчера был вторник. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>21. Голкипер — это защитник в хоккее. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>22. Семнадцать делится на семь. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>23. Помадой красят ресницы. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>24. Майор — это звание между капитаном и подполковником. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>25. Голландия — то же самое, что и Нидерланды. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>26. Дагестан находится в России. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>27. Чечётка — это название танца. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>28. В слове «пень» один слог. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>29. Коалы обитают в Норвегии. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>30. На футбольном поле двое ворот. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>31. Динозавров изучает палеонтология. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>32. Хомяки являются хищниками. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>33. Кондитер изготавливает обувь. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>34. У флейты есть струны. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>35. Ежи впадают в спячку. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>36. Лезгинка — грузинское блюдо. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>37. В баскетболе используются мяч. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>38. В слове «переезд» есть приставка. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>39. Зелёный сигнал светофора означает, что нужно стоять. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>40. Эклер — это мясное блюдо. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>41. Нарвал живёт в море. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>42. Помидор — это корнеплод. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>43. Ридикюль — разновидность сумочки. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>44. Кипяток загасит огонь быстрее холодной воды. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>45. Пирсинг — это вид спорта. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>46. Полное имя Димы — Владимир. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>47. Вороны питаются только сыром. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>48. Про Каштанку написал Чехов. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>49. Уфа — это город в России. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>50. Слова «день» и «ночь» женского рода. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>51. Берлин — столица Лондона. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>52. Красная Шапочка шла к дедушке. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>53. Курочку Рябу придумал Лев Толстой. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>54. Парфюмер занимается духами. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>55. Коровы относятся к травоядным. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>56. В прятки можно играть только вдвоем. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>57. У сына Никиты отчество Николаевич. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>58. Отец жены — тесть. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>59. Пончики делают из теста. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>60. Пекин — столица Китая. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>61. Три сантиметра — это больше, чем четыре миллиметра. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>62. В 2013 году было 11 месяцев. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>63. Лицо рыцаря закрывается забралом. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>64. В слове «тень» все согласные мягкие. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>65. Трижды пять — пятнадцать. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>66. После мая наступает апрель. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>67. Леонардо — главный из черепашек-ниндзя. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>68. Древней Русью правили фараоны. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>69. Милан находится в России. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>70. «Добро» и «зло» — антонимы. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>71. Пингвины живут в Антарктиде. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>72. Криштиану Роналду — футболист. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>73. Архитектор — тот, кто проектирует здания. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>74. В борщ добавляют свёклу. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>75. Кузен — это старший брат. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>76. Пиала — это чашка без ручек. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>77. Цыплёнок — детёныш курицы. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>78. Художественная борьба — олимпийский вид спорта. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>79. В английском алфавите нет буквы А. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>80. Рапира — это разновидность шпаги. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>81. Река Амазонка протекает в Южной Америке. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>82. Ж — звонкий согласный. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>83. Актиния — это морской обитатель. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>84. Синхронная ходьба — командный вид спорта. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>85. Пирамиды построили древние греки. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>86. При близорукости плохо видно то, что близко. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>87. Китай — единственная страна, где растут голубые розы. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>88. Семерых козлят съела лиса. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>89. Мать мужа — тёща. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>90. Дуремар занимался продажей лягушек. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>91. Тонометром измеряют давление. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>92. В слове «ненастье» пять гласных. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>93. Один из Смешариков был бараном. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>94. Мыши не охотятся на кошек. </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>95. Сервал относится к копытным. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>96. 13 — простое число.  </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>97. Греция была столицей Рима. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>98. Волга — это река в Африке. </question>
+    <answer>False</answer>
+  </task>
+  <task>
+    <question>99. Кондитер делает сладости.  </question>
+    <answer>True</answer>
+  </task>
+  <task>
+    <question>100. Тетерев — то же, что глухарь. </question>
+    <answer>False</answer>
+  </task>
+</main>

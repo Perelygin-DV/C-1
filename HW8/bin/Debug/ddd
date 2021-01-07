@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <text>1. Ворона и сорока — одно и то же. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>2. Рубанок — инструмент столяра. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>3. Кашпо — вид шарфа. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>4. Бобслей — санный вид спорта. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>5. 23:00 — то же, что 8 часов вечера. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>6. Мэри Поппинс родом из Франции. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>7. Английский алфавит длиннее русского. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>8. В слове «день» 4 звука. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>9. Судно с двумя корпусами — катамаран. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>10. Октябрь — самый длинный осенний месяц. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>11. Столица Египта — Каир. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>12. Фортепиано относится к духовым инструментам. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>13. Война с Наполеоном была в 1812 году. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>14. Изумруд — камень синего цвета. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>15. Суши — японское блюдо. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>16. Рождество в России отмечают 14 января. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>17. Цветик-семицветик исполнял желания. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>18. Антрекот — это пирожное. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>19. Емеля поймал Золотую рыбку. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>20. Если сегодня четверг, то позавчера был вторник. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>21. Голкипер — это защитник в хоккее. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>22. Семнадцать делится на семь. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>23. Помадой красят ресницы. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>24. Майор — это звание между капитаном и подполковником. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>25. Голландия — то же самое, что и Нидерланды. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>26. Дагестан находится в России. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>27. Чечётка — это название танца. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>28. В слове «пень» один слог. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>29. Коалы обитают в Норвегии. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>30. На футбольном поле двое ворот. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>31. Динозавров изучает палеонтология. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>32. Хомяки являются хищниками. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>33. Кондитер изготавливает обувь. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>34. У флейты есть струны. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>35. Ежи впадают в спячку. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>36. Лезгинка — грузинское блюдо. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>37. В баскетболе используются мяч. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>38. В слове «переезд» есть приставка. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>39. Зелёный сигнал светофора означает, что нужно стоять. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>40. Эклер — это мясное блюдо. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>41. Нарвал живёт в море. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>42. Помидор — это корнеплод. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>43. Ридикюль — разновидность сумочки. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>44. Кипяток загасит огонь быстрее холодной воды. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>45. Пирсинг — это вид спорта. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>46. Полное имя Димы — Владимир. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>47. Вороны питаются только сыром. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>48. Про Каштанку написал Чехов. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>49. Уфа — это город в России. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>50. Слова «день» и «ночь» женского рода. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>51. Берлин — столица Лондона. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>52. Красная Шапочка шла к дедушке. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>53. Курочку Рябу придумал Лев Толстой. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>54. Парфюмер занимается духами. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>55. Коровы относятся к травоядным. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>56. В прятки можно играть только вдвоем. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>57. У сына Никиты отчество Николаевич. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>58. Отец жены — тесть. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>59. Пончики делают из теста. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>60. Пекин — столица Китая. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>61. Три сантиметра — это больше, чем четыре миллиметра. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>62. В 2013 году было 11 месяцев. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>63. Лицо рыцаря закрывается забралом. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>64. В слове «тень» все согласные мягкие. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>65. Трижды пять — пятнадцать. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>66. После мая наступает апрель. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>67. Леонардо — главный из черепашек-ниндзя. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>68. Древней Русью правили фараоны. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>69. Милан находится в России. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>70. «Добро» и «зло» — антонимы. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>71. Пингвины живут в Антарктиде. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>72. Криштиану Роналду — футболист. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>73. Архитектор — тот, кто проектирует здания. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>74. В борщ добавляют свёклу. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>75. Кузен — это старший брат. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>76. Пиала — это чашка без ручек. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>77. Цыплёнок — детёныш курицы. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>78. Художественная борьба — олимпийский вид спорта. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>79. В английском алфавите нет буквы А. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>80. Рапира — это разновидность шпаги. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>81. Река Амазонка протекает в Южной Америке. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>82. Ж — звонкий согласный. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>83. Актиния — это морской обитатель. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>84. Синхронная ходьба — командный вид спорта. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>85. Пирамиды построили древние греки. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>86. При близорукости плохо видно то, что близко. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>87. Китай — единственная страна, где растут голубые розы. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>88. Семерых козлят съела лиса. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>89. Мать мужа — тёща. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>90. Дуремар занимался продажей лягушек. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>91. Тонометром измеряют давление. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>92. В слове «ненастье» пять гласных. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>93. Один из Смешариков был бараном. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>94. Мыши не охотятся на кошек. </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>95. Сервал относится к копытным. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>96. 13 — простое число.  </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>97. Греция была столицей Рима. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>98. Волга — это река в Африке. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>99. Кондитер делает сладости.  </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>100. Тетерев — то же, что глухарь. </text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>123</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+</ArrayOfQuestion>

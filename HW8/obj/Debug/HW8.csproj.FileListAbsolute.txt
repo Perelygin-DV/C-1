@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\HW\HW8\bin\Debug\HW8.exe.config
+C:\Users\Дмитрий\Desktop\HW\HW8\bin\Debug\HW8.exe
+C:\Users\Дмитрий\Desktop\HW\HW8\bin\Debug\HW8.pdb
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.Form1.resources
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.exe
+C:\Users\Дмитрий\Desktop\HW\HW8\obj\Debug\HW8.pdb

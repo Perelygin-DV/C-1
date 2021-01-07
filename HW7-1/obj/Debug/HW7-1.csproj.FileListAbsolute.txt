@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\HW\HW7-1\bin\Debug\HW7-1.exe.config
+C:\Users\Дмитрий\Desktop\HW\HW7-1\bin\Debug\HW7-1.exe
+C:\Users\Дмитрий\Desktop\HW\HW7-1\bin\Debug\HW7-1.pdb
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7-1.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7_1.Form1.resources
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7_1.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7-1.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7-1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7-1.exe
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7-1.pdb
+C:\Users\Дмитрий\Desktop\HW\HW7-1\obj\Debug\HW7_1.Form2.resources
